@@ -3,8 +3,9 @@ Project template to start programming  Atmel AVR microcontrollers with PlatformI
 
 #### How do you will use it ?
 1. Install PlatformIO Core <http://docs.platformio.org/page/core.html> on VScode
-2. Open the project by VScode (File -> Add folder to workspace...)
-3. Click to Platformio icon and you can from project tasks build, upload, monitor ... 
+2. clone or download the project templete
+2. Add the project templete folder to VScode workspace by File -> Add folder to workspace...
+3. Click to Platformio icon and you can (from project tasks) build, upload, monitor ... 
 
 ### If you need any help or information:
 :large_blue_circle:	 Facebook: https://www.facebook.com/walidamriou   
